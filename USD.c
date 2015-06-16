@@ -1,6 +1,6 @@
-# ITSP2015
-#My Institue Summer Technical Project
-#CodeForUDS
+//ITSP2015
+//My Institue Summer Technical Project
+//CodeForUDS
 int trigPin1= 13;
 
 int echoPin1 = 11;
