@@ -23,12 +23,12 @@ float duration3;
 int trigPin1= 12;
 int trigPin2= 13;
 int trigPin3= 3;
-#define echoPin1= A0;
-#define echoPin2= A1;
-#define echoPin3= A2;
-#define greenLedPin= 1;
-#define redLedPin= 2;
-#define yellowLedPin= A4;
+int echoPin1= A0;
+int echoPin2= A1;
+int echoPin3= A2;
+int greenLedPin= 1;
+int redLedPin= 2;
+int yellowLedPin= A4;
 void setup()
 {
 	Serial.begin(9600);
